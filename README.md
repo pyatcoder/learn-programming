@@ -6,7 +6,7 @@
   
 ### 何を学ぶか
 従来型ITと先端型ITがあるが、市場が伸びる先端型ITにする  
-経産省 ＩＴ人材需給に関する調査（https://www.meti.go.jp/policy/it_policy/jinzai/gaiyou.pdf）  
+経産省 ＩＴ人材需給に関する調査（https://www.meti.go.jp/policy/it_policy/jinzai/gaiyou.pdf)  
 具体的には、Python と Flutter
 
 ### どうやって学ぶか
